@@ -46,6 +46,9 @@ The app will open in your default browser (usually at `http://localhost:8501`).
 - **Intraday data is typically limited to the last 60 days**.
 - If you select a date range older than 60 days for intraday intervals (1m, 5m, 15m), data may not be available.
 
+## Usage
+https://orbbacktestapp-mkcsqzktqby3eua6hgycic.streamlit.app/
+
 ## Disclaimer
 
 This tool is for educational and backtesting purposes only. It is not a recommendation to trade. Trading in stock markets involves risk.
